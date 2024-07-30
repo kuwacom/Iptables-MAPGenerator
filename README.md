@@ -1,0 +1,2 @@
+# Iptables-MAPGenerator
+IptablesでIPに対してPortでマッピングをする設定を生成するプログラム
